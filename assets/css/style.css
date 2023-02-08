@@ -215,6 +215,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/dimtech!.jpg") no-repeat center top fixed;
   background-size: cover;
+  object-fit: cover;
 }
 
 #hero:before {
